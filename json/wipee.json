@@ -1,9 +1,37 @@
 [
     {
-        "name": "Location 1",
+        "name": "Quartier Bleu",
         "coordinates": {
             "lat": 50.93535938919204,
             "long": 5.33617374080753
+        }
+    },
+    {
+        "name": "Manneken Pis",
+        "coordinates": {
+            "lat": 50.84512846748878,
+            "long": 4.350021184985594
+        }
+    },
+    {
+        "name": "Cegeka Arena (KRC Genk)",
+        "coordinates": {
+            "lat": 51.005162953374786,
+            "long": 5.533394769645555
+        }
+    },
+    {
+        "name": "PXL D-gebouw",
+        "coordinates": {
+            "lat": 50.93742432128776,
+            "long": 5.3490618984798
+        }
+    },
+    {
+        "name": "McDonald's",
+        "coordinates": {
+            "lat": 50.93890809809659,
+            "long": 5.301835379031605
         }
     }
 ]
